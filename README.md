@@ -208,3 +208,28 @@ Freelancers
 Skills
  ├── Freelancer_Skills
  └── Demand_Trends
+
+                ┌─────────────────────┐
+                │     SQL Server      │
+                │      GigBase DB     │
+                └──────────┬──────────┘
+                           │
+                           │ SQL Queries
+                           ▼
+                ┌─────────────────────┐
+                │  Python Application  │
+                │      Streamlit       │
+                └──────────┬──────────┘
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+   Data Analysis     Risk Scoring     Matching Engine
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ Management &        │
+                │ Decision Support    │
+                └─────────────────────┘
